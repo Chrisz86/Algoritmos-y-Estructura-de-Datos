@@ -1,6 +1,6 @@
-#Algoritmos y Estructuras de Datos
+# Algoritmos y Estructuras de Datos
 
-##Trabajo practico 0
+## Trabajo practico 0
 
 + *Curso*: K1051
 + *Año de cursada*: 2023
